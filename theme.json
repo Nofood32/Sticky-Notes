@@ -1,0 +1,10 @@
+{
+  "name": "Sticky Notes",
+  "author": "nofood",
+  "url": "",
+  "version": "0.9",
+  "modes": [
+    "light",
+	"dark"
+  ]
+}
